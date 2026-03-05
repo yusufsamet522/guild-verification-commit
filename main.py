@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-05T18:45:22.476Z
-Commit: Fix CSS styling bug on mobile devices
+Timestamp: 2026-03-05T18:45:24.559Z
+Commit: Fix memory leak in event handlers
